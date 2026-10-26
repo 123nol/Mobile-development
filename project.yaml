@@ -2,10 +2,10 @@
 schema: "1"
 
 
-title: "Campus Lost and Found"
+title: " PeerLend: A Peer-to-Peer Lending and Loan Management App"
 
 
-summary: "An app that helps students to report and find lost items on campus so that more of them are returned."
+summary: "PeerLend is a mobile application that connects individuals seeking small loans with potential lenders. Lenders publish offers specifying the loan amount, interest rate and repayment period, while borrowers browse offers and submit requests. The app records agreed terms, tracks repayment schedules and provides reminders and loan-history summaries. An AI assistant helps users understand loan terms and repayment calculations in simple language."
 
 members:
   - name: "Nolawi Assefa"              
